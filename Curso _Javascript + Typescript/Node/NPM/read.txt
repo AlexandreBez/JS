@@ -1,0 +1,17 @@
+2.      1.     0
+Major  Minor  Patch
+
+//correção de Bug
+2.      1.     1
+Major  Minor  Patch
+
+//recurso novo
+2.      2.     0
+Major  Minor  Patch
+
+//quebrar compatibilidade com versão antiga
+3.      0.      0      
+Major  Minor  Patch
+
+^ Minor e Patch
+~Patch
